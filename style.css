@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.textview{
+    width: 205px;
+    height: 36px;
+    margin: 4px;
+    padding: 1px;
+    font-size: 19px;
+}
+
+.button{
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    margin: 1px;
+    background-color: rgb(132, 139, 146);
+    color: white;
+}
+
+.main{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+
+.body{
+    background-color: rgb(238, 234, 144)	;
+    width: 100%;
+}
